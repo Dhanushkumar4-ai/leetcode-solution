@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -70,5 +71,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
