@@ -22,6 +22,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Matrix
@@ -33,6 +34,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Enumeration
 |  |
 | ------- |
@@ -57,4 +59,5 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
