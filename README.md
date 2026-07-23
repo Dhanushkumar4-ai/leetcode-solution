@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
