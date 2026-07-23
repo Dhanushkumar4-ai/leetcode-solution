@@ -54,10 +54,16 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
