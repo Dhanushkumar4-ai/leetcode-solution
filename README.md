@@ -11,6 +11,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Stack
 |  |
 | ------- |
