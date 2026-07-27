@@ -25,6 +25,7 @@
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -79,4 +80,9 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
