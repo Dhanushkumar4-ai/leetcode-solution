@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
