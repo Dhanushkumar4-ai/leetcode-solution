@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
