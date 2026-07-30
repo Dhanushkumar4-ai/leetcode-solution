@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
+| [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
@@ -121,5 +123,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
