@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -111,6 +114,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -120,6 +124,7 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
