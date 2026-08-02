@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -130,4 +132,12 @@
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
