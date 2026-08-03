@@ -17,6 +17,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -40,6 +41,7 @@
 | [1046-last-stone-weight](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -136,8 +138,10 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
