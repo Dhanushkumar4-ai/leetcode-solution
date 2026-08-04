@@ -12,6 +12,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
