@@ -19,6 +19,7 @@
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -49,6 +50,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -140,16 +142,19 @@
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,4 +175,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
