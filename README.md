@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
