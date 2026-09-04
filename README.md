@@ -63,6 +63,7 @@
 | [3731-find-missing-elements](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Dhanushkumar4-ai/leetcode-solution/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
